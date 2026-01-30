@@ -1,3 +1,4 @@
+
 # AI Fundamentals — Notes & Python Practice
 
 This repository documents my structured self-study of **Artificial Intelligence** 
@@ -10,16 +11,19 @@ The repository emphasizes **active learning**, combining **handwritten notes** w
 
 ## Repository Structure
 
+```
+
 AI-Fundamentals/
 │
-├── notes/ # Handwritten lecture notes
-│ └── README.md
+├── 01.hand-written-notes/                  # Handwritten lecture notes
+│   └── README.md
 │
-├── code-implementation/ # Python programs implementing AI concepts
-│ └── README.md
+├── 02.code-implementation/    # Python programs implementing AI concepts
+│   └── README.md
 │
-└── README.md # Main README (this file)
+└── README.md               # Main README (this file)
 
+```
 
 ---
 
@@ -58,3 +62,4 @@ This repository reflects a disciplined, first-principles approach to learning AI
 
 All notes and code are my own work.  
 Content is based on publicly available educational material and is intended for personal learning and reference.
+```
