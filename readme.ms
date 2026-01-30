@@ -14,13 +14,11 @@ The repository emphasizes **active learning**, combining **handwritten notes** w
 
 AI-Fundamentals/
 │
-├── 01.hand-written-notes/                  # Handwritten lecture notes
+├── 01.hand-written-notes/        # Handwritten lecture notes
 │   └── README.md
-│
-├── 02.code-implementation/    # Python programs implementing AI concepts
+├── 02.code-implementation/       # Python programs implementing AI concepts
 │   └── README.md
-│
-└── README.md               # Main README (this file)
+└── README.md                     # Main README (this file)
 
 ```
 
@@ -33,8 +31,7 @@ Contains **original handwritten notes** created during lectures.
 - Captures key concepts, diagrams, and personal explanations  
 - Helps internalize material and build mental models  
 
-For more details, see [notes/README.md](notes/README.md)
-
+For more details, see [01.hand-written-notes/README.md](01.hand-written-notes/README.md)
 ---
 
 ## Code Implementation Folder
@@ -44,7 +41,7 @@ Contains Python programs for **practical reinforcement** of AI concepts.
 - Focused on **understanding theory through coding**  
 - Includes well-commented, from-scratch implementations of algorithms and experiments  
 
-For more details, see [code-implementation/README.md](code-implementation/README.md)
+For more details, see [02.code-implementation/README.md](02.code-implementation/README.md)
 
 ---
 
