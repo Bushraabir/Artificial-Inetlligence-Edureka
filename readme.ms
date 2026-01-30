@@ -1,4 +1,3 @@
-
 # AI Fundamentals — Notes & Python Practice
 
 This repository documents my structured self-study of **Artificial Intelligence** 
