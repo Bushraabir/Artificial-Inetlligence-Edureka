@@ -32,6 +32,7 @@ Contains **original handwritten notes** created during lectures.
 - Helps internalize material and build mental models  
 
 For more details, see [01.hand-written-notes/README.md](01.hand-written-notes/README.md)
+
 ---
 
 ## Code Implementation Folder
